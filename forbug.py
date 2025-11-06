@@ -1,7 +1,7 @@
 # Finance Bug Testing File
 
 # Bug 1: Already fixed - loop starts from 0 ✓
-for i in range(0,10):
+for i in range( 0, 10):
     print(i)
 
 # Bug 2: Fixed - Changed to >= operator ✓
